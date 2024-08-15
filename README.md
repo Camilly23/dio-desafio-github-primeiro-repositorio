@@ -6,3 +6,4 @@ Repositório criado para o Dasafio de Projeto.
 
 ## Cursos Que Já Concluí:
 [Estrutura de Dados e Algoritmos](https://hermes.dio.me/certificates/LHMYRZUO.pdf)
+[Projetos ágeis com SCRUM](https://hermes.dio.me/certificates/L3V00QSZ.pdf)
