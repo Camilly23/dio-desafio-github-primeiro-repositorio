@@ -9,3 +9,5 @@ Repositório criado para o Dasafio de Projeto.
 
 [Projetos ágeis com SCRUM](https://hermes.dio.me/certificates/L3V00QSZ.pdf)
 
+[lógica de Programação Essencial](https://hermes.dio.me/certificates/29KFM1RJ.pdf)
+
